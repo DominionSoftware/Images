@@ -32,79 +32,7 @@
               "imagePositionPatient": "-203.375\\45.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.844",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24373.MRDC.5.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "9",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\33.8786\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.845",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24374.MRDC.9.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "17",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\9.87855\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.847",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24376.MRDC.17.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "21",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\-2.12145\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.848",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24377.MRDC.21.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "25",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\-14.1214\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.849",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24378.MRDC.25.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24373.MRDC.5.dcm"
             },
             {
               "columns": 256,
@@ -122,7 +50,79 @@
               "imagePositionPatient": "-203.375\\21.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.846",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24375.MRDC.13.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24375.MRDC.13.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "9",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\33.8786\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.845",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24374.MRDC.9.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "21",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\-2.12145\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.848",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24377.MRDC.21.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "25",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\-14.1214\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.849",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24378.MRDC.25.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "17",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\9.87855\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.847",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24376.MRDC.17.dcm"
             },
             {
               "columns": 256,
@@ -140,25 +140,7 @@
               "imagePositionPatient": "-203.375\\-26.1214\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.850",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24379.MRDC.29.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "2",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\54.8786\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.852",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24381.MRDC.2.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24379.MRDC.29.dcm"
             },
             {
               "columns": 256,
@@ -176,7 +158,25 @@
               "imagePositionPatient": "-203.375\\-38.1214\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.851",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24380.MRDC.33.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24380.MRDC.33.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "2",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\54.8786\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.852",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24381.MRDC.2.dcm"
             },
             {
               "columns": 256,
@@ -194,7 +194,7 @@
               "imagePositionPatient": "-203.375\\42.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.853",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24382.MRDC.6.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24382.MRDC.6.dcm"
             },
             {
               "columns": 256,
@@ -212,7 +212,7 @@
               "imagePositionPatient": "-203.375\\30.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.854",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24383.MRDC.10.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24383.MRDC.10.dcm"
             },
             {
               "columns": 256,
@@ -230,25 +230,7 @@
               "imagePositionPatient": "-203.375\\18.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.855",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24384.MRDC.14.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "18",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\6.87855\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.856",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24385.MRDC.18.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24384.MRDC.14.dcm"
             },
             {
               "columns": 256,
@@ -266,7 +248,25 @@
               "imagePositionPatient": "-203.375\\-5.12145\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.857",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24386.MRDC.22.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24386.MRDC.22.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "18",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\6.87855\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.856",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24385.MRDC.18.dcm"
             },
             {
               "columns": 256,
@@ -284,25 +284,7 @@
               "imagePositionPatient": "-203.375\\-17.1214\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.858",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24387.MRDC.26.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "30",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\-29.1214\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.859",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24388.MRDC.30.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24387.MRDC.26.dcm"
             },
             {
               "columns": 256,
@@ -320,7 +302,7 @@
               "imagePositionPatient": "-203.375\\-41.1214\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.860",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24389.MRDC.34.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24389.MRDC.34.dcm"
             },
             {
               "columns": 256,
@@ -338,7 +320,25 @@
               "imagePositionPatient": "-203.375\\51.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.861",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24390.MRDC.3.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24390.MRDC.3.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "30",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\-29.1214\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.859",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24388.MRDC.30.dcm"
             },
             {
               "columns": 256,
@@ -356,79 +356,7 @@
               "imagePositionPatient": "-203.375\\39.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.862",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24391.MRDC.7.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "11",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\27.8786\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.863",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24392.MRDC.11.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "15",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\15.8786\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.864",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24393.MRDC.15.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "31",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\-32.1214\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.868",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24397.MRDC.31.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "27",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\-20.1214\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.867",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24396.MRDC.27.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24391.MRDC.7.dcm"
             },
             {
               "columns": 256,
@@ -446,7 +374,25 @@
               "imagePositionPatient": "-203.375\\-8.12145\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.866",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24395.MRDC.23.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24395.MRDC.23.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "11",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\27.8786\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.863",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24392.MRDC.11.dcm"
             },
             {
               "columns": 256,
@@ -464,12 +410,12 @@
               "imagePositionPatient": "-203.375\\3.87855\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.865",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24394.MRDC.19.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24394.MRDC.19.dcm"
             },
             {
               "columns": 256,
               "rows": 256,
-              "instanceNumber": "8",
+              "instanceNumber": "15",
               "acquisitionNumber": "1",
               "photometricInterpretation": "MONOCHROME2",
               "bitAllocated": 16,
@@ -479,10 +425,46 @@
               "pixelSpacing": "1.25\\1.25",
               "highBit": 15,
               "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\36.8786\\213.228",
+              "imagePositionPatient": "-203.375\\15.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.870",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24399.MRDC.8.dcm"
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.864",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24393.MRDC.15.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "31",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\-32.1214\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.868",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24397.MRDC.31.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "27",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\-20.1214\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.867",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24396.MRDC.27.dcm"
             },
             {
               "columns": 256,
@@ -500,7 +482,25 @@
               "imagePositionPatient": "-203.375\\48.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.869",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24398.MRDC.4.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24398.MRDC.4.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "8",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\36.8786\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.870",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24399.MRDC.8.dcm"
             },
             {
               "columns": 256,
@@ -518,7 +518,7 @@
               "imagePositionPatient": "-203.375\\24.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.871",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24400.MRDC.12.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24400.MRDC.12.dcm"
             },
             {
               "columns": 256,
@@ -536,25 +536,7 @@
               "imagePositionPatient": "-203.375\\12.8786\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.872",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24401.MRDC.16.dcm"
-            },
-            {
-              "columns": 256,
-              "rows": 256,
-              "instanceNumber": "20",
-              "acquisitionNumber": "1",
-              "photometricInterpretation": "MONOCHROME2",
-              "bitAllocated": 16,
-              "bitsStored": 16,
-              "pixelRepresentation": 1,
-              "samplesPerPixel": 1,
-              "pixelSpacing": "1.25\\1.25",
-              "highBit": 15,
-              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
-              "imagePositionPatient": "-203.375\\0.878551\\213.228",
-              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
-              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.873",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24402.MRDC.20.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24401.MRDC.16.dcm"
             },
             {
               "columns": 256,
@@ -572,7 +554,25 @@
               "imagePositionPatient": "-203.375\\-11.1214\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.874",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24403.MRDC.24.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24403.MRDC.24.dcm"
+            },
+            {
+              "columns": 256,
+              "rows": 256,
+              "instanceNumber": "20",
+              "acquisitionNumber": "1",
+              "photometricInterpretation": "MONOCHROME2",
+              "bitAllocated": 16,
+              "bitsStored": 16,
+              "pixelRepresentation": 1,
+              "samplesPerPixel": 1,
+              "pixelSpacing": "1.25\\1.25",
+              "highBit": 15,
+              "imageOrientationPatient": "1\\-0\\0\\-0\\-0\\-1",
+              "imagePositionPatient": "-203.375\\0.878551\\213.228",
+              "imageType": "ORIGINAL\\PRIMARY\\OTHER",
+              "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.873",
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24402.MRDC.20.dcm"
             },
             {
               "columns": 256,
@@ -590,7 +590,7 @@
               "imagePositionPatient": "-203.375\\-23.1214\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.875",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24404.MRDC.28.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24404.MRDC.28.dcm"
             },
             {
               "columns": 256,
@@ -608,7 +608,7 @@
               "imagePositionPatient": "-203.375\\-35.1214\\213.228",
               "imageType": "ORIGINAL\\PRIMARY\\OTHER",
               "sopInstanceUid": "1.2.840.113619.2.135.2025.3762162.5015.1110913011.876",
-              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master//home/rickf/projects/Images/BackToFront.dcm/i24405.MRDC.32.dcm"
+              "url": "dicomweb://raw.githubusercontent.com/DominionSoftware/Images/master/BackToFront.dcm/i24405.MRDC.32.dcm"
             }
           ]
         }
